@@ -55,7 +55,6 @@ button.icon {
     min-width: 32px;
     width: 32px;
     padding: 0;
-    overflow: hidden;
     line-height: normal;
 }
 
@@ -103,7 +102,6 @@ header h1 {
     color: #323330;
     margin: 1rem auto;
 }
-
 
 
 /* To-do Item */
@@ -157,10 +155,7 @@ header h1 {
     opacity: 1;
 }
 
-
-
 /* To-do form */
-
 #todo-form {
     display: flex;
     background-color: #FAFAFA;
